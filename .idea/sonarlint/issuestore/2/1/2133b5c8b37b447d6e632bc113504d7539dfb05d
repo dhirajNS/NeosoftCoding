@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+‘
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(’ëÝìþÿÿÿÿ
+E	java:S106	"+Replace this use of System.out by a logger.(¬‡†ãýÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(þÖ±µùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¹¸à£øÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(²Á€œüÿÿÿÿ

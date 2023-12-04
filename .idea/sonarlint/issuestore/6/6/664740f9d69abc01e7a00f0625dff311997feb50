@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+V
+java:S1854"@Remove this useless assignment to local variable "mockedResult".(ûĞîÙ
+A
+java:S3011",This accessibility update should be removed.(¤›òL
+G
+java:S1481"1Remove this unused "mockedResult" local variable.(ûĞîÙ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ËŸ¯ê
+E	java:S106"+Replace this use of System.out by a logger.(òşÚúøÿÿÿÿ

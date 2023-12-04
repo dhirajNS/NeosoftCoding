@@ -1,0 +1,18 @@
+
+7
+java:S1220""Move this file to a named package.8Á¡Íóº1
+]
+java:S18545";Remove this useless assignment to local variable "sumAges".(è†‘¶şÿÿÿÿ8ïÚùÀ1
+V
+java:S18543":Remove this useless assignment to local variable "maxAge".(ı¸ê8 êÖóº1
+G
+java:S14813"+Remove this unused "maxAge" local variable.(ı¸ê8¤şÕóº1
+N
+java:S14815",Remove this unused "sumAges" local variable.(è†‘¶şÿÿÿÿ8•ïÚùÀ1
+L	java:S1067"+Replace this use of System.out by a logger.(ç…ˆéùÿÿÿÿ8–ïÚùÀ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8—ïÚùÀ1
+W
+java:S1128"5Remove this unused import 'java.util.OptionalDouble'.(‰ÀÕÿøÿÿÿÿ8˜ïÚùÀ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8”ŠØóº1

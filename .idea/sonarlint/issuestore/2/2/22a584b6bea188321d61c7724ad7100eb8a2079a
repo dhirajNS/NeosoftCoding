@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8³¿ÙØ¿1
+\
+java:S1854":Remove this useless assignment to local variable "duumyy".(Œ¸”–úÿÿÿÿ8ÞŠ™Ú¿1
+M
+java:S1481"+Remove this unused "duumyy" local variable.(Œ¸”–úÿÿÿÿ8âŠ™Ú¿1
+]	java:S125"<This block of commented-out lines of code should be removed.(çñÎîüÿÿÿÿ8Ù‚ÚØ¿1
+G	java:S106"+Replace this use of System.out by a logger.(¹…ž‚8Ú‚ÚØ¿1
+L	java:S106"+Replace this use of System.out by a logger.(ð¸‹Éúÿÿÿÿ8Û‚ÚØ¿1
+L
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8äÖÙØ¿1

@@ -1,0 +1,20 @@
+
+7
+java:S1220""Move this file to a named package.8Ş¥èòº1
+G
+java:S1197"*Move the array designators [] to the type.(öğúò8ê¥èòº1
+L
+java:S1197"*Move the array designators [] to the type.(º–úÿÿÿÿ8ë¥èòº1
+G	java:S106"+Replace this use of System.out by a logger.(™Ô—Ñ8í¥èòº1
+L
+java:S1197"*Move the array designators [] to the type.(ÑùëÄûÿÿÿÿ8í¥èòº1
+L	java:S106"+Replace this use of System.out by a logger.(´æÃ¼úÿÿÿÿ8î¥èòº1
+L
+java:S1197"*Move the array designators [] to the type.(Ş­¹ıÿÿÿÿÿ8ï¥èòº1
+G	java:S106 "+Replace this use of System.out by a logger.(²æÏı8ğ¥èòº1
+T
+java:S1128"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ8ğ¥èòº1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ñ¥èòº1
+P
+java:S1128".Remove this unused import 'java.util.TreeMap'.(¨éˆèıÿÿÿÿ8ñ¥èòº1

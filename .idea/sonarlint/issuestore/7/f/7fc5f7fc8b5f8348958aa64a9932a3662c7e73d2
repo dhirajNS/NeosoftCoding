@@ -1,0 +1,17 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÎÊ÷şÿÿÿÿ8ğÿ­¿1
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¾Îşıÿÿÿÿ8ğÿ­¿1
+7
+java:S1220""Move this file to a named package.8ñÿ­¿1
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÆñóØ8‡€­¿1
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(³ÎÎ}8‰€­¿1
+]
+java:S1854 ";Remove this useless assignment to local variable "param_2".(“¾Îşıÿÿÿÿ8‹€­¿1
+]
+java:S1854";Remove this useless assignment to local variable "param_1".(²ÎÊ÷şÿÿÿÿ8Œ€­¿1
+N
+java:S1481",Remove this unused "param_1" local variable.(²ÎÊ÷şÿÿÿÿ8€­¿1
+N
+java:S1481 ",Remove this unused "param_2" local variable.(“¾Îşıÿÿÿÿ8€­¿1

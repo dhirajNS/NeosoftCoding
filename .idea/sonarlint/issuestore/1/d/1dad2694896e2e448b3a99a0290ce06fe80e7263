@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8­˜¥îº1
+L
+java:S1197"*Move the array designators [] to the type.(©„Ÿäúÿÿÿÿ8µ˜¥îº1
+]	java:S125	"<This block of commented-out lines of code should be removed.(¢¬‚™üÿÿÿÿ8ÄÑîº1
+X	java:S125"<This block of commented-out lines of code should be removed.(‘Üã«8¥×¼µ½1
+L	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿ8½ÊÐîº1
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž8ª×¼µ½1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8«×¼µ½1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8«×¼µ½1
